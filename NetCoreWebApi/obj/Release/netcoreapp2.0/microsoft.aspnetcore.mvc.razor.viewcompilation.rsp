@@ -1,0 +1,6 @@
+F:\VS\GitRepository\Wasalee\NetCoreWebApi
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Wasalee
+--content-root=F:\VS\GitRepository\Wasalee\NetCoreWebApi
+--file=F:\VS\GitRepository\Wasalee\NetCoreWebApi\Views\Shared\Error.cshtml
+--file=F:\VS\GitRepository\Wasalee\NetCoreWebApi\Views\_ViewStart.cshtml

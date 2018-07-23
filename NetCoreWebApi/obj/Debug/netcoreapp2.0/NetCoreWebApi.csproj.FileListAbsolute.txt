@@ -1,0 +1,11 @@
+F:\VS\GitRepository\NetCoreWebApi\NetCoreWebApi\bin\Debug\netcoreapp2.0\NetCoreWebApi.deps.json
+F:\VS\GitRepository\NetCoreWebApi\NetCoreWebApi\bin\Debug\netcoreapp2.0\NetCoreWebApi.runtimeconfig.json
+F:\VS\GitRepository\NetCoreWebApi\NetCoreWebApi\bin\Debug\netcoreapp2.0\NetCoreWebApi.runtimeconfig.dev.json
+F:\VS\GitRepository\NetCoreWebApi\NetCoreWebApi\bin\Debug\netcoreapp2.0\NetCoreWebApi.dll
+F:\VS\GitRepository\NetCoreWebApi\NetCoreWebApi\bin\Debug\netcoreapp2.0\NetCoreWebApi.pdb
+F:\VS\GitRepository\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.csprojResolveAssemblyReference.cache
+F:\VS\GitRepository\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.csproj.CoreCompileInputs.cache
+F:\VS\GitRepository\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.AssemblyInfoInputs.cache
+F:\VS\GitRepository\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.AssemblyInfo.cs
+F:\VS\GitRepository\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.dll
+F:\VS\GitRepository\NetCoreWebApi\NetCoreWebApi\obj\Debug\netcoreapp2.0\NetCoreWebApi.pdb

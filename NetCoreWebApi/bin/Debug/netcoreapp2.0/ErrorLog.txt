@@ -1,0 +1,8 @@
+DateTime : 7/7/2018 1:59:34 PM
+
+
+MessageMapper not initialized. Call Initialize with appropriate configuration. If you are trying to use mapper instances through a container or otherwise, make sure you do not have any calls to the static Mapper.Map methods, and if you're using ProjectTo or UseAsDataSource extension methods, make sure you pass in the appropriate IConfigurationProvider instance.
+
+StackTrace   at AutoMapper.Mapper.get_Instance() in C:\projects\automapper\src\AutoMapper\Mapper.cs:line 32
+   at AutoMapper.Mapper.Map[TSource,TDestination](TSource source) in C:\projects\automapper\src\AutoMapper\Mapper.cs:line 92
+   at NetCoreWebApi.Controllers.UsersController.Register(RegisterBindingModel model) in F:\VS\GitRepository\Wasalee\NetCoreWebApi\Controllers\UsersController.cs:line 65

@@ -1,0 +1,11 @@
+F:\VS\GitRepository\JWT Role Based Auth with Custom Tables Identity\NetCoreWebApi\obj\Debug\netcoreapp2.0\JWTRoleBasedAuth.csproj.CoreCompileInputs.cache
+F:\VS\GitRepository\JWT Role Based Auth with Custom Tables Identity\NetCoreWebApi\obj\Debug\netcoreapp2.0\JWTRoleBasedAuth.AssemblyInfoInputs.cache
+F:\VS\GitRepository\JWT Role Based Auth with Custom Tables Identity\NetCoreWebApi\obj\Debug\netcoreapp2.0\JWTRoleBasedAuth.AssemblyInfo.cs
+F:\VS\GitRepository\JWT Role Based Auth with Custom Tables Identity\NetCoreWebApi\bin\Debug\netcoreapp2.0\JWTRoleBasedAuth.deps.json
+F:\VS\GitRepository\JWT Role Based Auth with Custom Tables Identity\NetCoreWebApi\bin\Debug\netcoreapp2.0\JWTRoleBasedAuth.runtimeconfig.json
+F:\VS\GitRepository\JWT Role Based Auth with Custom Tables Identity\NetCoreWebApi\bin\Debug\netcoreapp2.0\JWTRoleBasedAuth.runtimeconfig.dev.json
+F:\VS\GitRepository\JWT Role Based Auth with Custom Tables Identity\NetCoreWebApi\bin\Debug\netcoreapp2.0\JWTRoleBasedAuth.dll
+F:\VS\GitRepository\JWT Role Based Auth with Custom Tables Identity\NetCoreWebApi\bin\Debug\netcoreapp2.0\JWTRoleBasedAuth.pdb
+F:\VS\GitRepository\JWT Role Based Auth with Custom Tables Identity\NetCoreWebApi\obj\Debug\netcoreapp2.0\JWTRoleBasedAuth.dll
+F:\VS\GitRepository\JWT Role Based Auth with Custom Tables Identity\NetCoreWebApi\obj\Debug\netcoreapp2.0\JWTRoleBasedAuth.pdb
+F:\VS\GitRepository\JWT Role Based Auth with Custom Tables Identity\NetCoreWebApi\obj\Debug\netcoreapp2.0\JWTRoleBasedAuth.csprojResolveAssemblyReference.cache

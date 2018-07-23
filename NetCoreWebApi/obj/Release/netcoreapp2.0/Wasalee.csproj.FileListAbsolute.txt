@@ -1,0 +1,15 @@
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\bin\Release\netcoreapp2.0\Wasalee.deps.json
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\bin\Release\netcoreapp2.0\Wasalee.runtimeconfig.json
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\bin\Release\netcoreapp2.0\Wasalee.runtimeconfig.dev.json
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\bin\Release\netcoreapp2.0\Wasalee.dll
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\bin\Release\netcoreapp2.0\Wasalee.pdb
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\bin\Release\netcoreapp2.0\BLL.dll
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\bin\Release\netcoreapp2.0\DAL.dll
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\bin\Release\netcoreapp2.0\BLL.pdb
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\bin\Release\netcoreapp2.0\DAL.pdb
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\obj\Release\netcoreapp2.0\Wasalee.csprojResolveAssemblyReference.cache
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\obj\Release\netcoreapp2.0\Wasalee.csproj.CoreCompileInputs.cache
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\obj\Release\netcoreapp2.0\Wasalee.AssemblyInfoInputs.cache
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\obj\Release\netcoreapp2.0\Wasalee.AssemblyInfo.cs
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\obj\Release\netcoreapp2.0\Wasalee.dll
+F:\VS\GitRepository\Wasalee\NetCoreWebApi\obj\Release\netcoreapp2.0\Wasalee.pdb
