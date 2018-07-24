@@ -7,8 +7,8 @@ instead of options.UseSql.
 
 Use Cases:
 
-1. When a user log in with valid credentials, a token is returned.
-2. When user tries to access and Api controller action decorated with [Authorize] with an invalid token or no token at all. It will return
+1. When a user logs in with valid credentials, a token is returned.
+2. When user tries to access an Api controller action decorated with [Authorize] with an invalid token or no token at all. It will return
    401 Unauthorized status code.
 3. When user tries to access an action whom access is only provided to admin(with a valid token though), it will return a 403 Forbidden
    status code.
